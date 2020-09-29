@@ -1,4 +1,4 @@
-# SimpleGeneticAlgorithm
+# Simple Genetic Algorithm
 here it is a simple genetic algorithm that was implemented by myself 
 ## what it can do?
 the algorithm make random population and then in lots of generations try to reach a special string
