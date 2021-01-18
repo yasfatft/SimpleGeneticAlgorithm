@@ -1,5 +1,5 @@
 # Simple Genetic Algorithm
-here it is a simple genetic algorithm that was implemented by myself 
+Here it is a simple genetic algorithm that was implemented by myself.
 ## what it can do?
 the algorithm make random population and then in lots of generations try to reach a special string
 the number of population,generation and result string can be changed by yourself...
