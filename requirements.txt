@@ -1,0 +1,4 @@
+wheel
+freez
+fuzzywuzzy
+python-Levenshtein
