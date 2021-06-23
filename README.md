@@ -1,16 +1,13 @@
-# Simple Genetic Algorithm
-Here it is a simple genetic algorithm that was implemented by myself.
-## what it can do?
-the algorithm make random population and then in lots of generations try to reach a special string
-the number of population,generation and result string can be changed by yourself...
-## how to use 
-there are two ways to eun the algorithm 
-### first one with python file
-+ first you need to install some packages with pip install i list below: 
-  + pip install wheel
-  + pip install freez
-  + pip install fuzzywuzzy
-  + pip install python-Levenshtein
-+ then its all done and you only need to run the file python file Genetic.py
-### second one with jupyter notebook
-- you only need to open Genetic.ipnyb file with jupyter notebook and run cells in order one by one 
+# Genetic Algorithm
+## What it can do?
+The algorithm makes a random population at the beginning and then tries to approach a special string in every generation.
+Population size, number of generations, and goal string can be modified by you.
+## How to use 
+There are two ways to run algorithm: 
+### With Python3
+1. Install dependencies: 
+```pip3 install -r requirements.txt```
+2. Declare population size, number of generation & goal string in genetic.py
+2. Run genetic.py
+### With Jupiter Notebook
+You only need to open the Genetic.ipnyb with Jupiter notebook, modify population size, number of generation & goal string, and run cells in order one by one.
